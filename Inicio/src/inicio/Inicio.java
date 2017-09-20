@@ -5,10 +5,7 @@
  */
 package inicio;
 
-/**
- *
- * @author Estudiantes
- */
+
 public class Inicio {
 
     /**
